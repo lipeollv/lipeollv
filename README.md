@@ -21,6 +21,7 @@ Em um resumo, é isso: quero algum dia ter autonomia suficiente na área da tecn
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lipeollv/)
 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=lipeollv&show_icons=true&theme=gotham)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21rtkp5hrid6rszfiuqqhttbi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
