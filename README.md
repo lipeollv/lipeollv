@@ -1,4 +1,4 @@
-## Eai! - Filipe Cavalcanti
+## Oi! - Filipe Cavalcanti
 
 Tudo bem? Me chamo Filipe e sou estudante de engenharia da computação -> [![image](https://github.com/user-attachments/assets/0919238c-afa7-4dd7-9ab2-be88bb2910cd)](https://unasp.br/) 
 
@@ -19,3 +19,36 @@ Em um resumo, é isso: quero algum dia ter autonomia suficiente na área da tecn
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lipzerakj/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipecavalcanti/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lipeollv/)
+
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+
+---
+
+## Portfolio:
+- [Sol](https://github.com/lipeollv/sol)
+- [Consultor de CEP](https://github.com/lipeollv/Consultor-de-CEP)
+
+
+
+
+
+![Sem título](https://github.com/user-attachments/assets/0b8bd64f-08ef-46fa-9e63-ce15027583ca)
+
+
+## 📚 Habilidades
+
+<div style="flex-basis: 48%;">
+    <h3>Linguagens de programação</h3>
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<div style="flex-basis: 48%;">
+    <h3>Ferramentas e frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+
+---
+
+
+
+### 👋                                      
+a tecnologia vai mudar o mundo 📌
+    
