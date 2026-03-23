@@ -1,8 +1,8 @@
-## Oi! - Filipe Cavalcanti
+## Olá
 
 Tudo bem? 
 
- - 🥼 Acredito que a tecnologia é capaz de muito mais.
+ - 🥼 Acredito que a tecnologia é capaz de mudar o mundo. e quero fazer parte disso.
 
  - 🔭 Sempre buscando evoluir.
 
