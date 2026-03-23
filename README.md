@@ -42,12 +42,12 @@ Atualmente faço faculdade de Engenharia da Computação na UNiversidade Adventi
 
 <div style="flex-basis: 48%;">
     <h3>Linguagens de programação</h3>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    Python, Java
+    
 
 <div style="flex-basis: 48%;">
     <h3>Ferramentas e frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    Visual COde, Intellij, AWS, AutoCAD
 
 
 
