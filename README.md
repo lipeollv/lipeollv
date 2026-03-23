@@ -10,7 +10,7 @@ Tudo bem?
 
 👨‍💻 mais sobre mim 👇:
 <details> 
-    - 💬 Tenho 22 anos e sempre odiei a escola. Sempre preferi ficar na frente do computador desde muito pequeno fazendo qualquer coisa que seja. Aprendi muito com a internet, jogos e computadores velhos e com o tempo fiquei fascinado pela tecnologia. Falo de odiar a escola mas na verdade eu só não gostava do que >me ensinavam<. Aprendi a montar um computador e a programa-lo desde cedo, depois de ter que formatar de tanto virus que colocava, soldar um componente velho pra continuar usando, meio que aprendi a fazer tudo por sobrevivencia e curiosidade. Hoje, busco oportunidades para provar minha capacidade e sonho. Não só oportunidades profissionais, oportunidades para evoluir o que sei e aprender o que não sei.
+    - 💬 Tenho 22 anos e sempre odiei a escola. Sempre preferi ficar na frente do computador desde muito pequeno fazendo qualquer coisa que seja. Aprendi muito com a internet, jogos e computadores velhos e com o tempo fiquei fascinado pela tecnologia. Falo de odiar a escola mas na verdade eu só não gostava do que >me ensinavam<. Aprendi a montar um computador e a programa-lo desde cedo, depois de ter que formatar de tanto virus que colocava, soldar um componente velho pra continuar usando, aprendi a fazer tudo por sobrevivencia e curiosidade. Hoje, busco oportunidades para provar minha capacidade e sonho. Não só oportunidades profissionais, oportunidades para evoluir o que sei e aprender o que não sei.
      
 Atualmente faço faculdade de Engenharia da Computação na UNiversidade Adventista de São Paulo (UNASP [![image](https://github.com/user-attachments/assets/0919238c-afa7-4dd7-9ab2-be88bb2910cd)](https://unasp.br/)), busco oportunidades na minha área para me provar.
 </details>
