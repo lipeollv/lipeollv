@@ -2,7 +2,7 @@
 
 Tudo bem? 
 
- - 🥼 Acredito que a tecnologia é capaz de mudar o mundo. e quero fazer parte disso.
+ - 🥼 Acredito que a tecnologia é capaz de mudar o mundo e quero fazer parte disso.
 
  - 🔭 Sempre buscando evoluir.
 
