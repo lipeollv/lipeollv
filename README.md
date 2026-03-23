@@ -47,6 +47,9 @@ Atualmente faço faculdade de Engenharia da Computação na UNiversidade Adventi
 <div style="flex-basis: 48%;">
     <h3>Ferramentas e frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+
 
 ---
 
