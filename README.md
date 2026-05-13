@@ -22,7 +22,6 @@ Atualmente faço faculdade de Engenharia da Computação na UNiversidade Adventi
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lipeollv/)
 
 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=lipeollv&show_icons=true&theme=gotham)
 ![https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21rtkp5hrid6rszfiuqqhttbi&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
 
 ---
