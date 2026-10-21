@@ -19,7 +19,6 @@
     </td>
   </tr>
 </table>
----
 
 ## 👨‍💻 Sobre Mim
 
