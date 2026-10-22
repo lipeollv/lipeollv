@@ -3,6 +3,7 @@
   <p><em>"Acredito que a tecnologia é capaz de mudar o mundo e quero fazer parte disso."</em></p>
   
   <p>
+    <a href="https://portfolio-puce-two-17.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
     <a href="https://www.linkedin.com/in/filipecavalcanti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://www.instagram.com/lipzerakj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://www.youtube.com/@lipeollv/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
@@ -14,6 +15,7 @@
   <tr>
     <td valign="center" align="center">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=1000&color=00FF66&background=0D1117&center=false&vCenter=true&width=380&height=180&lines=root%40%3A~%23+nmap+-sV+-sC+-p-+10.0.0.1;root%40%3A~%23+tcpdump+-i+eth0+-nn+port+80;root%40%3A~%23+volatility+-f+mem.raw+imageinfo;root%40%3A~%23+chmod+%2Bx+exploit.sh+%26%26+./exploit.sh;root%40%3A~%23+cat+/etc/shadow" alt="Linux & Cyber Commands Terminal" />
+    </td>
     <td valign="center" align="center">
       <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=600&size=20&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=380&height=180&lines=%5B%2B%5D+INITIALIZING+SECURITY_LAB...;%5B%2B%5D+LINUX+%2F+BASH+%2F+NETWORKING;%5B%2B%5D+CYBER+SECURITY+%26+FORENSICS;%5B%2B%5D+ACCESS+GRANTED." alt="Matrix Terminal" />
     </td>
