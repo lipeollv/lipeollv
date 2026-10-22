@@ -73,9 +73,9 @@
 
 ## 📁 Principais Projetos
 
-- ⚖️ **[Sistema de Gestão Jurídica](https://github.com/lipeollv/Sistema-de-Tarefas)** *(antigo Sistema de Tarefas)* — Sistema em Java voltado para o gerenciamento de processos e clientes da área jurídica.
+- ⚖️ **[Sistema de Gestão Jurídica](https://github.com/lipeollv/Sistema-de-Tarefas)** — Sistema em Java voltado para o gerenciamento de processos e clientes da área jurídica.
 - ☀️ **[Sol](https://github.com/lipeollv/sol)** — Projeto de desenvolvimento e experimentação técnica.
-- 📍 **[Consultor de CEP](https://github.com/lipeollv/Consultor-de-CEP)** — Aplicação de consulta e integração de dados via API.
+- 📍 **[Hotdog Vila](https://github.com/lipeollv/Template_site.git)** — Site template para comércio profissional.
 
 ---
 
